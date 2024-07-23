@@ -3,9 +3,9 @@ using GrpcService1.Services;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.EntityFrameworkCore;
 using MongoDB.Driver;
-using UOW.Middleware;
 using UOW.Repository;
 using UOW.UoW;
+using UOW1.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using UOW.UoW;
 
-namespace UOW.Middleware;
+namespace UOW1.Middleware;
 
 public class AutoSave(RequestDelegate next)
 {

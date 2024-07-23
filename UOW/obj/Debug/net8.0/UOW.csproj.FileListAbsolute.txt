@@ -12,9 +12,9 @@ C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.GeneratedMSBu
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.AssemblyInfoInputs.cache
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.AssemblyInfo.cs
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.sourcelink.json
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.csproj.Up2Date
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.dll
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\refint\UOW.dll
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.pdb
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\ref\UOW.dll
-C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.sourcelink.json
