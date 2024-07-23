@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "CQRS\CQRS.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOW", "UOW\UOW.csproj", "{26F91985-5B24-47C4-91E5-B9C0B0601F43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{BCA49C09-0128-4517-AFCB-7EFD01A1D67E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,5 +28,9 @@ Global
 		{26F91985-5B24-47C4-91E5-B9C0B0601F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26F91985-5B24-47C4-91E5-B9C0B0601F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26F91985-5B24-47C4-91E5-B9C0B0601F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA49C09-0128-4517-AFCB-7EFD01A1D67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA49C09-0128-4517-AFCB-7EFD01A1D67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA49C09-0128-4517-AFCB-7EFD01A1D67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA49C09-0128-4517-AFCB-7EFD01A1D67E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

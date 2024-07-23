@@ -32,9 +32,9 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(typeof(Pro
     });
 builder.Services.Configure<KestrelServerOptions>(options =>
 {
-    options.ListenAnyIP(5601, listenOptions => {
-        listenOptions.Protocols = HttpProtocols.Http2;
-    });
+    // options.ListenAnyIP(5601, listenOptions => {
+    //     listenOptions.Protocols = HttpProtocols.Http2;
+    // });
     //add health check on a separate port instead of Http1AndHttp2 on same port
     options.ListenAnyIP(5600, listenOptions => {
         listenOptions.Protocols = HttpProtocols.Http1;
@@ -47,5 +47,7 @@ app.MapGrpcService<GreeterService>();
 app.MapGrpcService<SumerService>();
 app.MapGrpcService<CustomerService>();
 app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseRouting();
 app.MapRazorPages();
 app.Run();
