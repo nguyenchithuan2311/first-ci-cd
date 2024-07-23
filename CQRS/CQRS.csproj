@@ -11,5 +11,9 @@
     <ItemGroup>
       <PackageReference Include="MediatR" Version="12.3.0" />
     </ItemGroup>
-
+    <ItemGroup>
+        <Reference Include="Microsoft.AspNetCore.Http.Abstractions">
+            <HintPath>..\..\..\.dotnet\shared\Microsoft.AspNetCore.App\8.0.6\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+        </Reference>
+    </ItemGroup>
 </Project>

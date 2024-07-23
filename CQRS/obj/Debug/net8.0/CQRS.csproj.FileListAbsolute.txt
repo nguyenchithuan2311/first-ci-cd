@@ -11,3 +11,11 @@ C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\refint\CQRS.dll
 C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\CQRS.pdb
 C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\ref\CQRS.dll
 C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\CQRS.sourcelink.json
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\CQRS.csproj.Up2Date
