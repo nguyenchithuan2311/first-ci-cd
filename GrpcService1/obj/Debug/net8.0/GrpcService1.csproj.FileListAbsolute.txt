@@ -59,3 +59,5 @@ C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\refint\G
 C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.pdb
 C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.genruntimeconfig.cache
 C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\ref\GrpcService1.dll
+C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.RazorAssemblyInfo.cache
+C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.RazorAssemblyInfo.cs
