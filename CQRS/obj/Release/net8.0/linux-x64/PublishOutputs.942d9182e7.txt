@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\publish\CQRS.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\publish\CQRS.deps.json
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\publish\CQRS.pdb
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\publish\MediatR.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\publish\MediatR.Contracts.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll

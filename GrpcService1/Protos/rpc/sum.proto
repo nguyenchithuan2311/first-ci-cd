@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService1";
+
+import "google/api/annotations.proto";
+
+package sum;
+
+service Sumer {
+  rpc Getsumer (SumRequest) returns (SumReply){
+    option (google.api.http) = {
+      post: "/v1/sumer"
+      body:"*"
+    };
+  }
+}
+
+message SumRequest {
+  string name = 1;
+  string b = 2;
+}
+
+message SumReply {
+  string result = 1;
+}

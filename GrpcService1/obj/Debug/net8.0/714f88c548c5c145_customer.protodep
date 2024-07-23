@@ -1,0 +1,5 @@
+obj\Debug\net8.0\Protos\rpc/Customer.cs \
+obj\Debug\net8.0\Protos\rpc/CustomerGrpc.cs: C:/Users/Admin/.nuget/packages/microsoft.aspnetcore.grpc.jsontranscoding/8.0.7/content/protos/google/api/http.proto\
+ C:/Users/Admin/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/descriptor.proto\
+ C:/Users/Admin/.nuget/packages/microsoft.aspnetcore.grpc.jsontranscoding/8.0.7/content/protos/google/api/annotations.proto\
+ Protos/rpc/customer.proto

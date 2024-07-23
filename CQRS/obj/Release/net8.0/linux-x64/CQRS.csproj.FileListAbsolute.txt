@@ -1,0 +1,12 @@
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\CQRS.deps.json
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\CQRS.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\bin\Release\net8.0\linux-x64\CQRS.pdb
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\refint\CQRS.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\CQRS.pdb
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Release\net8.0\linux-x64\ref\CQRS.dll
