@@ -58,3 +58,4 @@ C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\bin\Debug\net8.0\CQRS.dll
 C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\bin\Debug\net8.0\UOW.dll
 C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\bin\Debug\net8.0\CQRS.pdb
 C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\bin\Debug\net8.0\UOW.pdb
+C:\Users\Admin\RiderProjects\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.sourcelink.json

@@ -10,3 +10,4 @@ C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\CQRS.dll
 C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\refint\CQRS.dll
 C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\CQRS.pdb
 C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\ref\CQRS.dll
+C:\Users\Admin\RiderProjects\GrpcService1\CQRS\obj\Debug\net8.0\CQRS.sourcelink.json

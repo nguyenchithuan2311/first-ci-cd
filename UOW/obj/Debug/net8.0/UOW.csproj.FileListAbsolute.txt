@@ -17,3 +17,4 @@ C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.dll
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\refint\UOW.dll
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.pdb
 C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\ref\UOW.dll
+C:\Users\Admin\RiderProjects\GrpcService1\UOW\obj\Debug\net8.0\UOW.sourcelink.json
