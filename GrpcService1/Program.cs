@@ -12,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers();
 
 // Add services to the container.
+builder.Services.AddRazorPages();
 builder.Services.AddGrpc().AddJsonTranscoding();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
@@ -46,4 +47,5 @@ app.MapGrpcService<GreeterService>();
 app.MapGrpcService<SumerService>();
 app.MapGrpcService<CustomerService>();
 app.UseHttpsRedirection();
+app.MapRazorPages();
 app.Run();
