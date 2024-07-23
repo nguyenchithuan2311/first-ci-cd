@@ -6,4 +6,30 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="UOW\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="UOW\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="UOW\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="UOW\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="UOW\bin\Debug\net8.0\UOW.deps.json" />
+      <_ContentIncludedByDefault Remove="UOW\obj\Debug\net8.0\UOW.sourcelink.json" />
+      <_ContentIncludedByDefault Remove="UOW\obj\Debug\net8.0\UOW1.sourcelink.json" />
+      <_ContentIncludedByDefault Remove="UOW\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="UOW\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="UOW\obj\UOW.csproj.nuget.dgspec.json" />
+      <_ContentIncludedByDefault Remove="UOW\obj\UOW1.csproj.nuget.dgspec.json" />
+    </ItemGroup>
+
 </Project>

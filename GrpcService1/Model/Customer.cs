@@ -9,7 +9,7 @@ public class Customer()
         Order = order;
     }
 
-    public Guid Id { get; set; }
-    public string Name { get; set; }
-    public string Order { get; set; }
+    public Guid Id { get; init; }
+    public string Name { get; init; }
+    public string Order { get; init; }
 }

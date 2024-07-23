@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d225f01c-799b-4a41-96ac-14aed9966155" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CQRS.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CQRS.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CQRS.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CQRS.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/workflows/main_first-test-deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.GrpcService1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.GrpcService1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.GrpcService1/.idea/protoeditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.GrpcService1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/CQRS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/CQRS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/CQRS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/CQRS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/ClassLibrary1.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/CQRS.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/CQRS.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/CQRS.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/CQRS.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/CQRS.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/CQRS.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/publish/CQRS.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/publish/CQRS.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/publish/CQRS.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/publish/MediatR.Contracts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/publish/MediatR.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/CQRS.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/CQRS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/CQRS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/CQRS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/CQRS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/Model/Customer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/Model/Customer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/CQRS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/CQRS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/CQRS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/CQRS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/GrpcService1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/GrpcService1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/GrpcService1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/GrpcService1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/GrpcService1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/GrpcService1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/UOW.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/UOW.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/UOW.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/bin/Debug/net8.0/UOW.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/GrpcService1.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/ref/GrpcService1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/ref/GrpcService1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/refint/GrpcService1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/Debug/net8.0/refint/GrpcService1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrpcService1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../GrpcService1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/bin/Debug/net8.0/UOW.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/bin/Debug/net8.0/UOW.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/bin/Debug/net8.0/UOW.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/bin/Debug/net8.0/UOW.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/UOW.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/ref/UOW.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/ref/UOW.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/refint/UOW.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/Debug/net8.0/refint/UOW.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOW/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../UOW/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/WebApplication1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/WebApplication1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/bin/Debug/net8.0/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/bin/Debug/net8.0/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/bin/Debug/net8.0/WebApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/bin/Debug/net8.0/WebApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/bin/Debug/net8.0/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/bin/Debug/net8.0/WebApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/WebApplication1.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/refint/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/Debug/net8.0/refint/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication1/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nguyenchithuan2311"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nguyenchithuan2311/first-ci-cd.git",
+    "accountId": "4ee61a98-6596-4067-b2f8-ef2f22f3c818"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jdjp4LXz5me7MkzXtBIigkeQkY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d225f01c-799b-4a41-96ac-14aed9966155" name="Changes" comment="" />
+      <created>1721724027402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721724027402</updated>
+      <workItem from="1721724028561" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

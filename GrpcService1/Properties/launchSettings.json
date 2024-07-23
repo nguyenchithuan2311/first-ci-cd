@@ -8,7 +8,7 @@
       "applicationUrl": "http://localhost:5006",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "ConnectionStringsMongodb": "mongodb+srv://thuan:23112002@cluster0.miuxxot.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        "ConnectionStringsMongodb": "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+7.0.12"
       }
     },
     "https": {
