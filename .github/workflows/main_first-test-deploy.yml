@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'first-test-deploy'
           slot-name: 'Production'
-          package: .
+          package: ${{ runner.workspace }}/myapp
           
